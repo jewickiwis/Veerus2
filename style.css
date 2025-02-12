@@ -1,16 +1,5 @@
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-image: url('https://static.vecteezy.com/system/resources/previews/001/880/017/large_2x/happy-valentines-with-flower-background-free-vector.jpg');
-            background-size: cover;
-            background-position: center;
-            color: #851515;
-            position: relative;
-            height: 100vh;
-        }
-</style>
+
+
 
 body {
     display: flex;
@@ -19,6 +8,15 @@ body {
     height: 100vh;
     background-color: #fae1dd;
     margin: 0;
+        font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://static.vecteezy.com/system/resources/previews/001/880/017/large_2x/happy-valentines-with-flower-background-free-vector.jpg');
+            background-size: cover;
+            background-position: center;
+            color: #851515;
+            position: relative;
+            height: 100vh;
   }
   
   .container {
